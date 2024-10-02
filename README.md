@@ -42,3 +42,10 @@ community and industrial needs.
 * d.1. Determine how to personally guide and fulfill any time and schedule related design
 process tasks.
 * d.2. Apply technical skills to real-life design problems flexibly.
+
+# Assessment
+Student Assessment Methods |  Assessment Weights
+* 1st project presentation 30%
+* 2nd project presentation 30%
+* 3rd project presentation 30%
+* Contribution classwork, exhibition, documentation 10 %
