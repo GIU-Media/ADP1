@@ -5,6 +5,24 @@
 ----------------
 # Sessions
 
+Lecture schedule for autumn 2024 is as follows;
+* 2 October 12:15 - 17:00 - 18:30 Lecture
+* 10 October self directed workshops & excursion to Frankfurt
+* 17 October 10:30 - 13:45 Double Lecture
+* 24 October 10:30 - 13:45 self directed workshops
+* w/c 28 Mid term exams and team check-ins
+* 7 November self directed workshops & field trip to Greencity solutions
+* 14 November 10:30 - 13:45 Double Lecture
+* 21 November 10:30 - 13:45 self directed workshops & field trip to Vestre
+* 28 November 10:30 - 13:45 Double Lecture
+* 5 December 10:30 - 13:45 self directed workshops & guest Lecture 16:00 - 17:30 Prof. Anna Whicher and Piotr Swiatek PDR
+* 12 December 10:30 - 13:45 Double Lecture
+* 19 December 10:30 - 13:45 Double Lecture and review session
+
+NB all sessions in Bike Market unless otherwise notified
+
+* Weekly check-ins with each team can be booked via regular office hours -  available in 30 minutes slots, 14:00-15:30 each Wednesday online via MSteams
+
 ## Session 1
 Introduction / orientation session: define project, research question, approach and outcome
 ## Session 2
