@@ -25,6 +25,7 @@ NB all sessions in Bike Market unless otherwise notified
 
 ## Session 1
 Introduction / orientation session: define project, research question, approach and outcome
+[slideset](ADP_session_1.pdf)
 ## Session 2
 Collecting of research and topic related information (e.g. socio economic trends, sector related
 developments)
