@@ -16,8 +16,8 @@ Lecture schedule for autumn 2024 is as follows;
 * 21 November 10:30 - 13:45 self directed workshops & field trip to Vestre
 * 28 November 10:30 - 13:45 Double Lecture
 * 5 December 10:30 - 13:45 self directed workshops & guest Lecture 16:00 - 17:30 Prof. Anna Whicher and Piotr Swiatek PDR
-* 12 December 10:30 - 13:45 Double Lecture
-* 19 December 10:30 - 13:45 Double Lecture and review session
+* 11 December 10:30 - 13:45 Double Lecture and review session
+
 
 NB all sessions in Bike Market unless otherwise notified
 
