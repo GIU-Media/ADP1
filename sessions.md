@@ -43,7 +43,7 @@ Decision on final design concept
 ## Session 8
 Presentation of design concept
 ## Session 9
-Refining and adjusting the design concept 
+Evaluation & the 4 c's and Question Forumlation Technique  [exercise example](adp evaluation and QFT.pdf)
 ## Session 10
 Elaboration of business model and manufacturing
 feasibility 2 6
